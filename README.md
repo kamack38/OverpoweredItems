@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/github/license/kamack38/MinecraftDP-OverpoweredItems?label=License&style=flat-square" alt="License" />
   </a>
 </p>
+
 ## Table of Contents
 
 - [Overview](#overview)
