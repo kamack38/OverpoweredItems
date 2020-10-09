@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "NNN",
+    "O#O",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "minecraft:diamond_block"
+    },
+    "O": {
+      "item": "minecraft:emerald_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

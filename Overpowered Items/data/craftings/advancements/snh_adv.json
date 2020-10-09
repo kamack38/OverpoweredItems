@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "craftings:snh"
+            }
+        }
+    },
+    "rewards": {
+        "function": "craftings:crafted_snh"
+    }
+}

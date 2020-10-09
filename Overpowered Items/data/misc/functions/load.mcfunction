@@ -1,0 +1,1 @@
+tellraw @a {"text":"Overpowered Items v3.2 has been loaded","color":"light_purple","bold":true}

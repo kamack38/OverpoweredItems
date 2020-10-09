@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " # ",
+    "O#O",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_block"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

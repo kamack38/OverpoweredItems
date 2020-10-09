@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " N ",
+    "O#O",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:shield"
+    },
+    "O": {
+      "item": "minecraft:diamond_block"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    },
+    "N": {
+      "item": "minecraft:poppy"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}
