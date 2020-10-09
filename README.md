@@ -1,7 +1,7 @@
 # Overpowered Items
 <p align="center">
   <a title="Issues" href="https://github.com/kamack38/MinecraftDP-OverpoweredItems/issues" target="_blank">
-    <img src="https://img.shields.io/bitbucket/issues-raw/kamack38/MinecraftDP-OverpoweredItems?label=Issues&style=flat-square" alt="Issues" />
+    <img src="https://img.shields.io/github/issues/kamack38/MinecraftDP-OverpoweredItems?label=Issues&style=flat-square" alt="Issues" />
   </a>
   <a title="Release" href="https://github.com/kamack38/MinecraftDP-OverpoweredItems/releases" target="_blank">
     <img src="https://img.shields.io/github/v/release/kamack38/MinecraftDP-OverpoweredItems?label=Release&style=flat-square" alt="Latest Release" />
