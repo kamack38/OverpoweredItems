@@ -27,7 +27,7 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 ## Installation
 1. Download latest release from [github.com](https://github.com/kamack38/MinecraftDP-OverpoweredItems/releases).
 2. Unpack _.zip_ file using for example [Winrar](https://www.win-rar.com/affdownload/download.php) or [7zip](https://www.7-zip.org/).
-3. Place folder in `c:/users/user/AppData/Roaming/.minecraft/saves/yourworld/datapacks`.
+3. Place folder in `c:/users/user/AppData/Roaming/.minecraft/saves/YOURWORLDNAME/datapacks`.
 4. Start minecraft and then your minecraft world.
 5. Use command `/datapack enable "file/Overpowered Items"` and then `/reload`.
 6. After confirmation you can use all datapack features.
