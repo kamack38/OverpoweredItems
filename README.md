@@ -96,6 +96,7 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 | | | |
 |-|-|-|
+| | <img src="img/trans.png" width="32"></img> | |
 |<img src="img/netherite_block.png" width="32"></img> | | <img src="img/netherite_block.png" width="32"></img>
 <img src="img/netherite_block.png" width="32"></img> | | <img src="img/netherite_block.png" width="32"></img>
 
@@ -119,7 +120,53 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 ### Decrafting 
 
+#### Acacia Plank
 
+| | | |
+|-|-|-|
+| | | <img src="img/trans.png" width="32"></img> |
+| <img src="img/trans.png" width="32"></img> | <img src="img/acacia_slab.png" width="32"></img> | 
+| | <img src="img/acacia_slab.png" width="32"></img> | 
+
+#### Birch Plank
+
+| | | |
+|-|-|-|
+| | | <img src="img/trans.png" width="32"></img> |
+| <img src="img/trans.png" width="32"></img> | <img src="img/birch_slab.png" width="32"></img> | 
+| | <img src="img/birch_slab.png" width="32"></img> | 
+
+#### Dark Oak Plank
+
+| | | |
+|-|-|-|
+| | | <img src="img/trans.png" width="32"></img> |
+| <img src="img/trans.png" width="32"></img> | <img src="img/dark_oak_slab.png" width="32"></img> | 
+| | <img src="img/dark_oak_slab.png" width="32"></img> | 
+
+#### Jungle Plank
+
+| | | |
+|-|-|-|
+| | | <img src="img/trans.png" width="32"></img> |
+| <img src="img/trans.png" width="32"></img> | <img src="img/jungle_slab.png" width="32"></img> | 
+| | <img src="img/jungle_slab.png" width="32"></img> | 
+
+#### Oak Plank
+
+| | | |
+|-|-|-|
+| | | <img src="img/trans.png" width="32"></img> |
+| <img src="img/trans.png" width="32"></img> | <img src="img/oak_slab.png" width="32"></img> | 
+| | <img src="img/oak_slab.png" width="32"></img> | 
+
+#### Spruce Plank
+
+| | | |
+|-|-|-|
+| | | <img src="img/trans.png" width="32"></img> |
+| <img src="img/trans.png" width="32"></img> | <img src="img/spruce_slab.png" width="32"></img> | 
+| | <img src="img/spruce_slab.png" width="32"></img> | 
 
 ### Other
 
