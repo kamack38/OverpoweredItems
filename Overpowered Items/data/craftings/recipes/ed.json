@@ -1,12 +1,12 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "# #",
-    "###",
-    "###"
+    "NNN",
+    "NNN",
+    "NNN"
   ],
   "key": {
-    "#": {
+    "N": {
       "item": "minecraft:diamond_block"
     }
   },

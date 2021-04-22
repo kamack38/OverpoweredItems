@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "craftings:sh"
+                "recipe": "craftings:ed"
             }
         }
     },
     "rewards": {
-        "function": "craftings:crafted_sh"
+        "function": "craftings:crafted_ed"
     }
 }

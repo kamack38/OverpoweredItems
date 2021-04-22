@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "craftings:sb"
+                "recipe": "craftings:emp"
             }
         }
     },
     "rewards": {
-        "function": "craftings:crafted_sb"
+        "function": "craftings:crafted_emp"
     }
 }

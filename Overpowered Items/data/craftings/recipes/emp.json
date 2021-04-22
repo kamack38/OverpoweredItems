@@ -1,19 +1,16 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    " # ",
-    "O#O",
-    " X "
+    "###",
+    " I ",
+    " I "
   ],
   "key": {
     "#": {
-      "item": "minecraft:diamond_block"
-    },
-    "X": {
-      "item": "minecraft:stick"
-    },
-    "O": {
       "item": "minecraft:emerald_block"
+    },
+    "I": {
+      "item": "minecraft:blaze_rod"
     }
   },
   "result": {

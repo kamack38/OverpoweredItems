@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "OIO",
+    " I "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "O": {
+      "item": "minecraft:sugar"
+    },
+    "I": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

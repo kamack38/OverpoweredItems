@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "B#B",
+    "ODO",
+    "X X"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "X": {
+      "item": "minecraft:gold_block"
+    },
+    "O": {
+      "item": "minecraft:netherite_block"
+    },
+    "#": {
+      "item": "minecraft:end_crystal"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}
