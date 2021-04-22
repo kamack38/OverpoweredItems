@@ -20,6 +20,35 @@
 - [Installation](#installation)
 - [Features](#features)
 	- [Crafting Recipes](#crafting-recipes)
+    - [Weapons](#weapons)
+      - [Super Sword](#super-sword)
+      - [Super Stick](#super-stick)
+    - [Armour](#armour)
+      - [Crown](#crown)
+      - [Super Helmet](#super-helmet)
+      - [Super Chestplate](#super-chestplate)
+      - [Super Leggings](#super-leggings)
+      - [Super Boots](#super-boots)
+    - [Pickaxes](#pickaxes)
+      - [Sugary Pickaxe](#sugary-pickaxe)
+      - [Emerald Pickaxe](#emerald-pickaxe)
+    - [Decrafting](#decrafting)
+      - [Acacia Plank](#acacia-plank)
+      - [Birch Plank](#birch-plank)
+      - [Dark Oak Plank](#dark-oak-plank)
+      - [Jungle Plank](#jungle-plank)
+      - [Oak Plank](#oak-plank)
+      - [Spruce Plank](#spruce-plank)
+    - [Other](#other)
+      - [Shield](#shield)
+      - [Enchanted TNT](#enchanted-tnt)
+      - [Enchanted Diamond Block](#enchanted-diamond-block)
+
+
+
+
+
+
 
 # Overview
 Overpowered Items is a minecraft datapack which contains new awsome crafting recipes. Works with minecraft _1.16.3_
@@ -70,7 +99,7 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> |
 |-|-|-|
 |<img src="img/netherite_block.png" width="32"></img> |  | <img src="img/netherite_block.png" width="32"></img>
-|  |  | 
+|  | <img src="img/trans.png" width="32"></img> | 
 
 #### Super Chestplate 
 
@@ -157,7 +186,7 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 #### Shield
 
-| | <img src="img/poppy.png" width="32"></img>
+| | <img src="img/poppy.png" width="32"></img>| |
 |-|-|-|
 <img src="img/diamond_block.png" width="32"></img> | <img src="img/shield.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img>
 | | <img src="img/blaze_rod.png" width="32"></img> |
