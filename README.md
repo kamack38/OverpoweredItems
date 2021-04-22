@@ -44,12 +44,6 @@
       - [Enchanted TNT](#enchanted-tnt)
       - [Enchanted Diamond Block](#enchanted-diamond-block)
 
-
-
-
-
-
-
 # Overview
 Overpowered Items is a minecraft datapack which contains new awsome crafting recipes. Works with minecraft _1.16.3_
 
@@ -60,6 +54,7 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 4. Start minecraft and then your minecraft world.
 5. Use command `/datapack enable "file/Overpowered Items"` and then `/reload`.
 6. After confirmation you can use all datapack features.
+
 <details>
   <summary>Confirmation</summary>
   <img src="img/confirmation.png"></img>
