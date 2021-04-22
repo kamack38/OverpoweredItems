@@ -44,17 +44,15 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 #### Super Sword
 
-| | | |
-|-|-|-|
 | | <img src="img/netherite_block.png" width="32"></img> | |
+|-|-|-|
 | <img src="img/emerald_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/emerald_block.png" width="32"></img>
 | | <img src="img/blaze_rod.png" width="32"></img> | 
 
 #### Super Stick
 
-| | | |
-|-|-|-|
 | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> |
+|-|-|-|
 |<img src="img/emerald_block.png" width="32"></img> | <img src="img/blaze_rod.png" width="32"></img> | <img src="img/emerald_block.png" width="32"></img>
 <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img>
 
@@ -62,41 +60,36 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 #### Crown
 
-| | | |
-|-|-|-|
 | <img src="img/beacon.png" width="32"></img> | <img src="img/end_crystal.png" width="32"></img> | <img src="img/beacon.png" width="32"></img> |
+|-|-|-|
 |<img src="img/netherite_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img>
 <img src="img/gold_block.png" width="32"></img> |  | <img src="img/gold_block.png" width="32"></img>
 
 #### Super Helmet
 
-| | | |
-|-|-|-|
 | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> |
+|-|-|-|
 |<img src="img/netherite_block.png" width="32"></img> |  | <img src="img/netherite_block.png" width="32"></img>
 |  |  | 
 
 #### Super Chestplate 
 
-| | | |
-|-|-|-|
 | <img src="img/netherite_block.png" width="32"></img> |  | <img src="img/netherite_block.png" width="32"></img> |
+|-|-|-|
 |<img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img>
 <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img>
 
 #### Super Leggings
 
-| | | |
-|-|-|-|
 | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> | <img src="img/netherite_block.png" width="32"></img> |
+|-|-|-|
 |<img src="img/netherite_block.png" width="32"></img> | | <img src="img/netherite_block.png" width="32"></img>
 <img src="img/netherite_block.png" width="32"></img> | | <img src="img/netherite_block.png" width="32"></img>
 
 #### Super Boots
 
-| | | |
-|-|-|-|
 | | <img src="img/trans.png" width="32"></img> | |
+|-|-|-|
 |<img src="img/netherite_block.png" width="32"></img> | | <img src="img/netherite_block.png" width="32"></img>
 <img src="img/netherite_block.png" width="32"></img> | | <img src="img/netherite_block.png" width="32"></img>
 
@@ -104,17 +97,15 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 #### Sugary Pickaxe
 
-| | | |
-|-|-|-|
 <img src="img/gold_block.png" width="32"></img>| <img src="img/gold_block.png" width="32"></img> | <img src="img/gold_block.png" width="32"></img>
+|-|-|-|
 <img src="img/sugar.png" width="32"></img> | <img src="img/blaze_rod.png" width="32"></img> | <img src="img/sugar.png" width="32"></img>
 | | <img src="img/blaze_rod.png" width="32"></img> | 
 
 #### Emerald Pickaxe
 
-| | | |
-|-|-|-|
 <img src="img/emerald_block.png" width="32"></img>| <img src="img/emerald_block.png" width="32"></img> | <img src="img/emerald_block.png" width="32"></img>
+|-|-|-|
 | | <img src="img/blaze_rod.png" width="32"></img> | 
 | | <img src="img/blaze_rod.png" width="32"></img> | 
 
@@ -122,49 +113,43 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 #### Acacia Plank
 
-| | | |
-|-|-|-|
 | | | <img src="img/trans.png" width="32"></img> |
+|-|-|-|
 | <img src="img/trans.png" width="32"></img> | <img src="img/acacia_slab.png" width="32"></img> | 
 | | <img src="img/acacia_slab.png" width="32"></img> | 
 
 #### Birch Plank
 
-| | | |
-|-|-|-|
 | | | <img src="img/trans.png" width="32"></img> |
+|-|-|-|
 | <img src="img/trans.png" width="32"></img> | <img src="img/birch_slab.png" width="32"></img> | 
 | | <img src="img/birch_slab.png" width="32"></img> | 
 
 #### Dark Oak Plank
 
-| | | |
-|-|-|-|
 | | | <img src="img/trans.png" width="32"></img> |
+|-|-|-|
 | <img src="img/trans.png" width="32"></img> | <img src="img/dark_oak_slab.png" width="32"></img> | 
 | | <img src="img/dark_oak_slab.png" width="32"></img> | 
 
 #### Jungle Plank
 
-| | | |
-|-|-|-|
 | | | <img src="img/trans.png" width="32"></img> |
+|-|-|-|
 | <img src="img/trans.png" width="32"></img> | <img src="img/jungle_slab.png" width="32"></img> | 
 | | <img src="img/jungle_slab.png" width="32"></img> | 
 
 #### Oak Plank
 
-| | | |
-|-|-|-|
 | | | <img src="img/trans.png" width="32"></img> |
+|-|-|-|
 | <img src="img/trans.png" width="32"></img> | <img src="img/oak_slab.png" width="32"></img> | 
 | | <img src="img/oak_slab.png" width="32"></img> | 
 
 #### Spruce Plank
 
-| | | |
-|-|-|-|
 | | | <img src="img/trans.png" width="32"></img> |
+|-|-|-|
 | <img src="img/trans.png" width="32"></img> | <img src="img/spruce_slab.png" width="32"></img> | 
 | | <img src="img/spruce_slab.png" width="32"></img> | 
 
@@ -172,24 +157,21 @@ Overpowered Items is a minecraft datapack which contains new awsome crafting rec
 
 #### Shield
 
-| | | |
-|-|-|-|
 | | <img src="img/poppy.png" width="32"></img>
+|-|-|-|
 <img src="img/diamond_block.png" width="32"></img> | <img src="img/shield.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img>
 | | <img src="img/blaze_rod.png" width="32"></img> |
 
 #### Enchanted TNT 
 
-| | | |
-|-|-|-|
 <img src="img/tnt.png" width="32"></img>| <img src="img/tnt.png" width="32"></img> | <img src="img/tnt.png" width="32"></img>
+|-|-|-|
 <img src="img/tnt.png" width="32"></img> | <img src="img/tnt.png" width="32"></img> | <img src="img/tnt.png" width="32"></img>
 <img src="img/tnt.png" width="32"></img> | <img src="img/tnt.png" width="32"></img> | <img src="img/tnt.png" width="32"></img>
 
 #### Enchanted Diamond Block
 
-| | | |
-|-|-|-|
 <img src="img/diamond_block.png" width="32"></img>| <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img>
+|-|-|-|
 <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img>
 <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img> | <img src="img/diamond_block.png" width="32"></img>
